@@ -6,10 +6,9 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
-   <Button
-       android:id="@+id/bt"
-       android:text="这是一个按钮"
-       android:layout_gravity="center"
+   <TextView
+       android:id="@+id/text"
+       android:text="Hello World"
        android:layout_width="wrap_content"
        android:layout_height="wrap_content"/>
 
