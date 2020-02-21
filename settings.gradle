@@ -1,2 +1,2 @@
-include ':app', ':mode1'
+include ':app', ':mode1', ':day'
 rootProject.name='My Application4'
