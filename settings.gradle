@@ -1,2 +1,2 @@
-include ':app', ':mode1', ':day'
+include ':app', ':mode1', ':day', ':weektest01', ':xlistview_library'
 rootProject.name='My Application4'
