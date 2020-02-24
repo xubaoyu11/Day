@@ -1,10 +1,10 @@
-package com.bawei.wutenglong20200224.model;
+package com.example.day3.model;
 
 import android.util.Log;
 
-import com.bawei.wutenglong20200224.bean.Bean;
-import com.bawei.wutenglong20200224.calear.IHomePageConlaer;
-import com.bawei.wutenglong20200224.utils.NewUtils;
+import com.example.day3.bean.Bean;
+import com.example.day3.calear.IHomePageConlaer;
+import com.example.day3.utils.NewUtils;
 import com.google.gson.Gson;
 
 import java.util.List;

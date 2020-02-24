@@ -1,12 +1,10 @@
-package com.bawei.wutenglong20200224.calear;
+package com.example.day3.calear;
 
-import com.bawei.wutenglong20200224.bean.Bean;
+import com.example.day3.bean.Bean;
 
 import java.util.List;
 
 /**
- * @ProjectName: wutenglong20200224
- * @Package: com.bawei.wutenglong20200224.calear
  * @ClassName: IHomePageConlaer
  * @Description: 契约类
  * @CreateDate: 2020/2/24 13:22

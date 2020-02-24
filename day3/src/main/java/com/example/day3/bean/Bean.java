@@ -1,12 +1,10 @@
-package com.bawei.wutenglong20200224.bean;
+package com.example.day3.bean;
 
 import com.stx.xhb.xbanner.entity.SimpleBannerInfo;
 
 import java.util.List;
 
 /**
- * @ProjectName: wutenglong20200224
- * @Package: com.bawei.wutenglong20200224.bean
  * @ClassName: Bean
  * @Description: java类作用描述
  * @CreateDate: 2020/2/24 13:31

@@ -1,4 +1,4 @@
-package com.bawei.wutenglong20200224.adapter;
+package com.example.day3.adapter;
 
 import android.content.Context;
 import android.view.View;
@@ -7,10 +7,9 @@ import android.widget.BaseAdapter;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import com.bawei.wutenglong20200224.R;
-import com.bawei.wutenglong20200224.activity.MainActivity;
-import com.bawei.wutenglong20200224.bean.Bean;
 import com.bumptech.glide.Glide;
+import com.example.day3.R;
+import com.example.day3.bean.Bean;
 
 import java.util.List;
 

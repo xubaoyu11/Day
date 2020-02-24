@@ -1,5 +1,4 @@
-package com.bawei.wutenglong20200224.activity;
-
+package com.example.day3;
 
 import android.os.Bundle;
 import android.util.Log;
@@ -10,13 +9,12 @@ import android.widget.Toast;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-import com.bawei.wutenglong20200224.R;
-import com.bawei.wutenglong20200224.adapter.MyAdapter;
-import com.bawei.wutenglong20200224.bean.Bean;
-import com.bawei.wutenglong20200224.calear.IHomePageConlaer;
-import com.bawei.wutenglong20200224.prester.IHomePagePerter;
-import com.bawei.wutenglong20200224.utils.NewUtils;
 import com.bumptech.glide.Glide;
+import com.example.day3.adapter.MyAdapter;
+import com.example.day3.bean.Bean;
+import com.example.day3.calear.IHomePageConlaer;
+import com.example.day3.prester.IHomePagePerter;
+import com.example.day3.utils.NewUtils;
 import com.stx.xhb.xbanner.XBanner;
 
 import java.util.List;

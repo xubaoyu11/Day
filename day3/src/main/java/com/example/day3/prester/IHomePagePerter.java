@@ -1,8 +1,9 @@
-package com.bawei.wutenglong20200224.prester;
+package com.example.day3.prester;
 
-import com.bawei.wutenglong20200224.bean.Bean;
-import com.bawei.wutenglong20200224.calear.IHomePageConlaer;
-import com.bawei.wutenglong20200224.model.IHomePageModel;
+
+import com.example.day3.bean.Bean;
+import com.example.day3.calear.IHomePageConlaer;
+import com.example.day3.model.IHomePageModel;
 
 import java.util.List;
 
@@ -36,6 +37,7 @@ public class IHomePagePerter implements IHomePageConlaer.IPertenr {
             public void onGetFilear(String str) {
                 mView.onGetFilear(str);
             }
+
 
             @Override
             public void onBanner(List<Bean.ResultsBean.BannerBean> list) {
