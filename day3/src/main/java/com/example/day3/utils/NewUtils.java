@@ -10,8 +10,6 @@ import java.net.HttpURLConnection;
 import java.net.URL;
 
 /**
- * @ProjectName: wutenglong20200224
- * @Package: com.bawei.wutenglong20200224.utils
  * @ClassName: NewUtils
  * @Description: 网络工具类
  * @CreateDate: 2020/2/24 13:15

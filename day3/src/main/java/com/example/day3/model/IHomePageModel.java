@@ -10,8 +10,6 @@ import com.google.gson.Gson;
 import java.util.List;
 
 /**
- * @ProjectName: wutenglong20200224
- * @Package: com.bawei.wutenglong20200224.model
  * @ClassName: IHomePageModel
  * @Description: java类作用描述
  * @CreateDate: 2020/2/24 13:24

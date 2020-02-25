@@ -8,8 +8,7 @@ import com.example.day3.model.IHomePageModel;
 import java.util.List;
 
 /**
- * @ProjectName: wutenglong20200224
- * @Package: com.bawei.wutenglong20200224.prester
+
  * @ClassName: IHomePagePerter
  * @Description: java类作用描述
  * @CreateDate: 2020/2/24 13:24
