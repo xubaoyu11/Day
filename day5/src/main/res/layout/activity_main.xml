@@ -9,10 +9,8 @@
 
     <TextView
         android:id="@+id/title_one"
-        android:text="维度商城"
+        android:text="维度电商"
         android:textSize="50sp"
-        android:textColor="#F7F7F7"
-        android:background="#ffa500"
         android:gravity="center_horizontal"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"/>

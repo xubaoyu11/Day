@@ -10,7 +10,7 @@
 
     <TextView
         android:layout_width="match_parent"
-        android:text="疫情最新消息"
+        android:text="维度电商"
         android:textColor="@android:color/white"
         android:background="@android:color/holo_blue_dark"
         android:textSize="50sp"

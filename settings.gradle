@@ -1,2 +1,2 @@
-include ':app', ':mode1', ':day', ':weektest01', ':xlistview_library', ':day2', ':day3', ':day5', ':mode2'
+include ':app', ':mode1', ':day', ':weektest01', ':xlistview_library', ':day2', ':day3', ':day5', ':mode2', ':day6', ':day7', ':day8', ':pulltorefresh_library', ':day9', ':day10', ':mode3', ':day11', ':day12', ':day13', ':xubaoyu20200317'
 rootProject.name='My Application4'
